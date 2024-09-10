@@ -1,0 +1,47 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.videoBox {
+
+  display: flex;
+  justify-content: space-between;
+
+  flex-direction: column;
+
+  
+  .slide-conteiner {
+
+    .slide {
+
+      img{
+        min-width: 500px;
+        max-width: 2024px;
+        width: 100%;
+      }
+    }
+
+  }
+
+  .infoConteiner{
+    .avtor {
+    }
+  
+    .vevePort {
+  
+      .information1 {
+        p{
+  
+        }
+      }
+    }
+  }
+}
+
+
+
+
